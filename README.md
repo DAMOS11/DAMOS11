@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DAMOS
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning data anylytics 
+- 🌱 I’m currently learning data analytics 
 - 💞️ I’m looking to collaborate on any related project
 - 📫 How to reach me askdamos@gmail.com
 - 😄 Pronouns: he/him
