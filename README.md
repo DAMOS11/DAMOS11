@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DAMOS
+- 👋 Hi, I’m @DANIEL
 - 👀 I’m interested in tech
 - 🌱 I’m currently studying masters degree in Applied Artificial Intelligence
 - 💞️ I’m looking to collaborate on any related project
